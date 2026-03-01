@@ -12,11 +12,6 @@ Score points every time you pass through a gap
 Beat your best — your high score is tracked every session
 
 
-📸 Screenshots
-
-Add screenshots here once available
-
-
 🛠 Built With
 
 Swift — Apple's programming language
